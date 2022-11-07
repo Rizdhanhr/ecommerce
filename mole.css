@@ -1,0 +1,187 @@
+*[hidden] {
+    display: none;
+}
+
+body {
+    line-height: 1;
+    background-color: gainsboro;
+    
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+a[disabled],
+a.disabled {
+    color: gray;
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.hide {
+    display: none !important;
+}
+
+.game-container {
+    margin: 20px auto;
+    max-width: 834px;
+    width: auto;
+  
+}
+
+.toolbar {
+    text-align: center;
+}
+
+.toolbar a {
+    margin: 0 5px;
+}
+
+.score {
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
+
+.score-item {
+    flex: 1;
+    width: 50%;
+    text-transform: uppercase;
+}
+
+.score-item * {
+    width: auto;
+    flex: 1;
+    display: inline-block;
+}
+
+.score-item:first-child {
+    text-align: right;
+    margin-right: 5px;
+}
+
+.score-item:last-child {
+    text-align: left;
+    margin-left: 5px;
+}
+
+.play-area {
+    margin-top: 10px;
+    border: 5px solid black;
+    background-color: #2bb673;
+    border-radius: 5px;
+   
+}
+
+.play-area .row {
+    width: 100%;
+    display: flex;
+   
+}
+
+.play-area .row .item {
+    width: 33.3%;
+    flex: 1;
+  
+}
+
+.play-area .row .item .up {
+    width: 100%;
+    height: 107px;
+    background: url('assets/hole_empty_up.jpg') no-repeat;
+    background-size: contain;
+    text-align: center;
+    cursor: url('assets/aim.png'), auto;
+}
+
+.mole-img {
+    cursor: pointer;
+    margin: 0 auto;
+    display: block;
+    height: auto;
+    width: 120px;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    opacity: 0.5;
+    text-align: center;
+    cursor: pointer;
+}
+
+.overlay h1 {
+    font-size: 5rem;
+    color: crimson;
+    margin-top: 100px;
+}
+
+.pauseBlink {
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
+@media screen and (min-width: 611px) and (max-width: 845px) {
+    .play-area .row .item .down img {
+        width: 200px;
+    }
+    .mole-img {
+        width: 80px;
+    }
+    .play-area .row .item .up {
+        height: 76px;
+    }
+    .game-container {
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-width: 610px) {
+    .play-area .row .item .down img,
+    .mole-img {
+        width: 115px;
+        
+    }
+    .play-area .row .item .up {
+        height: 43px;
+    }
+    .mole-img {
+        width: 50px;
+    }
+    .game-container {
+        max-width: 345px;
+        
+    }
+}

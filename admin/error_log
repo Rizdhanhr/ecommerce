@@ -1,0 +1,64 @@
+[02-Mar-2020 14:28:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama_file' (T_VARIABLE) in /home/spea3321/public_html/admin/insertbarang.php on line 16
+[02-Mar-2020 14:28:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama_file' (T_VARIABLE) in /home/spea3321/public_html/admin/insertbarang.php on line 16
+[02-Mar-2020 14:29:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama_file' (T_VARIABLE) in /home/spea3321/public_html/admin/insertbarang.php on line 16
+[02-Mar-2020 14:32:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama_file' (T_VARIABLE) in /home/spea3321/public_html/admin/insertbarang.php on line 16
+[02-Mar-2020 14:32:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama_file' (T_VARIABLE) in /home/spea3321/public_html/admin/insertbarang.php on line 16
+[02-Mar-2020 14:32:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$nama_file' (T_VARIABLE) in /home/spea3321/public_html/admin/insertbarang.php on line 16
+[09-Mar-2020 15:25:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/produk/4G92/93.jpeg): failed to open stream: No such file or directory in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[09-Mar-2020 15:25:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXeDvb7' to 'images/produk/4G92/93.jpeg' in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[09-Mar-2020 15:39:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/produk/RB20/25/26.jpeg): failed to open stream: No such file or directory in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[09-Mar-2020 15:39:21 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMAzz80' to 'images/produk/RB20/25/26.jpeg' in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[30-Mar-2020 09:56:40 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 09:56:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 09:57:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 10:00:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 10:00:56 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 10:01:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 10:02:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 10:03:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:26:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:28:12 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:28:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:28:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:32:40 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:33:38 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:33:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:35:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:40:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:40:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:41:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:41:38 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:43:26 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:43:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:44:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:45:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:45:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:45:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:46:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:46:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:51:43 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 12:52:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 13:29:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 13:35:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 13:43:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[30-Mar-2020 14:17:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[31-Mar-2020 12:26:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[07-Apr-2020 09:48:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[07-Apr-2020 16:54:41 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[08-Apr-2020 11:24:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 12:17:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 12:31:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 12:40:26 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 12:43:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 14:25:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/produk/JP 3/4.jpeg): failed to open stream: No such file or directory in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[24-Apr-2020 14:25:23 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2Zui2Q' to 'images/produk/JP 3/4.jpeg' in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[24-Apr-2020 14:48:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 14:54:12 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[24-Apr-2020 14:56:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
+[27-Apr-2020 11:57:07 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/produk/FOIK-H/FC16R.jpeg): failed to open stream: No such file or directory in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[27-Apr-2020 11:57:07 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdR5Lj1' to 'images/produk/FOIK-H/FC16R.jpeg' in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[27-Apr-2020 11:59:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/produk/FOIK-H/FC16R.jpeg): failed to open stream: No such file or directory in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[27-Apr-2020 11:59:50 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnsGqRt' to 'images/produk/FOIK-H/FC16R.jpeg' in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[27-Apr-2020 12:05:49 Asia/Jakarta] PHP Warning:  move_uploaded_file(images/produk/H/Civic ATF 16 Row.jpeg): failed to open stream: No such file or directory in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[27-Apr-2020 12:05:49 Asia/Jakarta] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpThZakV' to 'images/produk/H/Civic ATF 16 Row.jpeg' in /home/spea3321/public_html/admin/insertbarang.php on line 31
+[27-Apr-2020 17:42:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/spea3321/public_html/admin/_partial/top.php on line 1
